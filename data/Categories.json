@@ -1,0 +1,32 @@
+[
+    {
+      "id": "01",
+      "name": "Python",
+      "img": "../Image/Catagories/c1.jpg"
+    },
+    {
+      "id": "02",
+      "name": "Java",
+      "img": "../Image/Catagories/c2.jpg"
+    },
+    {
+      "id": "03",
+      "name": "Web Development",
+      "img": "../Image/Catagories/c3.jpg"
+    },
+    {
+      "id": "04",
+      "name": "SQL",
+      "img": "../Image/Catagories/c4.jpg"
+    },
+    {
+      "id": "05",
+      "name": "PHP",
+      "img": "../Image/Catagories/c5.jpg"
+    },
+    {
+      "id": "06",
+      "name": "C",
+      "img": "../Image/Catagories/c6.jpg"
+    }
+  ]
