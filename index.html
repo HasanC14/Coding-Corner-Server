@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <img src="#" alt="" id="img" />
+    <script>
+      fetch("http://localhost:5000/category/01")
+        .then((response) => response.json())
+        .then((data) => display(data));
+      const display = (data) => {
+        data.map((element) => {
+          console.log(element);
+          const x = element.thumbnail_url;
+          document.getElementById("img").src = x;
+        });
+      };
+    </script>
+  </body>
+</html>
