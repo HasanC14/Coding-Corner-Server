@@ -11,9 +11,9 @@ app.get("/", (req, res) => {
 app.get("/categories", (req, res) => {
   res.send(categories);
 });
-// app.get("/categoryDetails", (req, res) => {
-//   res.send(categoryDetails);
-// });
+app.get("/categoryDetails", (req, res) => {
+  res.send(categoryDetails);
+});
 app.get("/category/:id", (req, res) => {
   const id = req.params.id;
   const categoryFullDetails = categoryDetails.filter(
@@ -21,11 +21,11 @@ app.get("/category/:id", (req, res) => {
   );
   res.send(categoryFullDetails);
 });
-// app.get("/categoryDetails/:id", (req, res) => {
-//   const id = req.params.id;
-//   const selected_categoryDetails = categoryDetails.find((n) => n._id === id);
-//   res.send(selected_categoryDetails);
-// });
+app.get("/categoryDetails/:id", (req, res) => {
+  const id = req.params.id;
+  const selected_categoryDetails = categoryDetails.find((n) => n._id === id);
+  res.send(selected_categoryDetails);
+});
 
 app.listen(port, () => {
   console.log(`Coding Corner server running on port ${port}`);
