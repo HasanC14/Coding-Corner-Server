@@ -8,9 +8,9 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I1.jpg"
+      "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=1380&t=st=1666716015~exp=1666716615~hmac=06f848473ed00da351dd348850b9190590c1d70df992225342f95e09fa1ea332"
     },
-    "thumbnail_url": "../Image/Catagories/c1.jpg",
+    "thumbnail_url": "https://www.besanttechnologies.com/wp-content/uploads/2018/11/what-is-python-programming.jpg",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
@@ -22,9 +22,9 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I2.jpg"
+      "img": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?w=1380&t=st=1666716206~exp=1666716806~hmac=4644dec341307adac51e46c0098003c4efad44220c8c48884cb2cba98f4d87b8"
     },
-    "thumbnail_url": "../Image/Catagories/c1.jpg",
+    "thumbnail_url": "https://www.aalpha.net/wp-content/uploads/2019/10/Python-programming-india.jpg",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
@@ -36,11 +36,12 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I3.jpg"
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1666716118~exp=1666716718~hmac=f03b22d2daa4f45ef691814a5c8b62cb8c1a4201854fd661036599e354453364"
     },
-    "thumbnail_url": "../Image/Catagories/c1.jpg",
+    "thumbnail_url": "https://www.datasciencecentral.com/wp-content/uploads/2021/10/9430449274.png",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
+
   {
     "_id": "004",
     "category_id": "02",
@@ -50,9 +51,9 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I4.jpg"
+      "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=1380&t=st=1666716015~exp=1666716615~hmac=06f848473ed00da351dd348850b9190590c1d70df992225342f95e09fa1ea332"
     },
-    "thumbnail_url": "../Image/Catagories/c4.jpg",
+    "thumbnail_url": "https://www.vinsys.com/blog/wp-content/uploads/2022/01/Java-Programming-Training-For-Beginners.jpg",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
@@ -64,9 +65,9 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I2.jpg"
+      "img": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?w=1380&t=st=1666716206~exp=1666716806~hmac=4644dec341307adac51e46c0098003c4efad44220c8c48884cb2cba98f4d87b8"
     },
-    "thumbnail_url": "../Image/Catagories/c6.jpg",
+    "thumbnail_url": "https://assets.website-files.com/60d04c4106d835bf99aa4c35/61f7eb0292d84908e7c370fd_Java%20Programming%20%20Intro%20to%20Advanced.jpg",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
@@ -78,11 +79,12 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I1.jpg"
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1666716118~exp=1666716718~hmac=f03b22d2daa4f45ef691814a5c8b62cb8c1a4201854fd661036599e354453364"
     },
-    "thumbnail_url": "../Image/Catagories/c5.jpg",
+    "thumbnail_url": "https://i.ytimg.com/vi/vJ-Zn4fo0MQ/maxresdefault.jpg",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
+
   {
     "_id": "007",
     "category_id": "03",
@@ -92,9 +94,9 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I3.jpg"
+      "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=1380&t=st=1666716015~exp=1666716615~hmac=06f848473ed00da351dd348850b9190590c1d70df992225342f95e09fa1ea332"
     },
-    "thumbnail_url": "../Image/Catagories/c1.jpg",
+    "thumbnail_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
@@ -106,9 +108,9 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I1.jpg"
+      "img": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?w=1380&t=st=1666716206~exp=1666716806~hmac=4644dec341307adac51e46c0098003c4efad44220c8c48884cb2cba98f4d87b8"
     },
-    "thumbnail_url": "../Image/Catagories/c5.jpg",
+    "thumbnail_url": "https://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Types-of-Web-Dev.jpg",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
@@ -120,11 +122,12 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I1.jpg"
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1666716118~exp=1666716718~hmac=f03b22d2daa4f45ef691814a5c8b62cb8c1a4201854fd661036599e354453364"
     },
-    "thumbnail_url": "../Image/Catagories/c5.jpg",
+    "thumbnail_url": "https://www.postingtree.com/wp-content/uploads/2022/08/web-article1.webp",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
+
   {
     "_id": "010",
     "category_id": "04",
@@ -134,9 +137,9 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I3.jpg"
+      "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=1380&t=st=1666716015~exp=1666716615~hmac=06f848473ed00da351dd348850b9190590c1d70df992225342f95e09fa1ea332"
     },
-    "thumbnail_url": "../Image/Catagories/c6.jpg",
+    "thumbnail_url": "https://spectrum.ieee.org/media-library/sql-computer-programming-language-on-screen.jpg?id=31141774&width=980",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
@@ -148,9 +151,9 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I4.jpg"
+      "img": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?w=1380&t=st=1666716206~exp=1666716806~hmac=4644dec341307adac51e46c0098003c4efad44220c8c48884cb2cba98f4d87b8"
     },
-    "thumbnail_url": "../Image/Catagories/c1.jpg",
+    "thumbnail_url": "https://www.datocms-assets.com/14946/1627286560-sql-databases.png?auto=format&fit=max&w=1200",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
@@ -162,11 +165,12 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I1.jpg"
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1666716118~exp=1666716718~hmac=f03b22d2daa4f45ef691814a5c8b62cb8c1a4201854fd661036599e354453364"
     },
-    "thumbnail_url": "../Image/Catagories/c2.jpg",
+    "thumbnail_url": "https://storage.googleapis.com/smartninja/sql-1615798112.jpeg",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
+
   {
     "_id": "013",
     "category_id": "05",
@@ -176,7 +180,7 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I2.jpg"
+      "img": "https://www.biz4group.com/images/why-choose-php-programming-language-for-web-development.jpg"
     },
     "thumbnail_url": "../Image/Catagories/c3.jpg",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
@@ -190,7 +194,7 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I3.jpg"
+      "img": "https://miro.medium.com/proxy/0*dYhf8eD1sNuG49Wf.png"
     },
     "thumbnail_url": "../Image/Catagories/c4.jpg",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
@@ -204,11 +208,12 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I4.jpg"
+      "img": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?w=1380&t=st=1666716206~exp=1666716806~hmac=4644dec341307adac51e46c0098003c4efad44220c8c48884cb2cba98f4d87b8"
     },
     "thumbnail_url": "../Image/Catagories/c5.jpg",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
+
   {
     "_id": "016",
     "category_id": "06",
@@ -218,9 +223,9 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I1.jpg"
+      "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=1380&t=st=1666716015~exp=1666716615~hmac=06f848473ed00da351dd348850b9190590c1d70df992225342f95e09fa1ea332"
     },
-    "thumbnail_url": "../Image/Catagories/c6.jpg",
+    "thumbnail_url": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
@@ -232,9 +237,9 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I2.jpg"
+      "img": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?w=1380&t=st=1666716206~exp=1666716806~hmac=4644dec341307adac51e46c0098003c4efad44220c8c48884cb2cba98f4d87b8"
     },
-    "thumbnail_url": "../Image/Catagories/c1.jpg",
+    "thumbnail_url": "https://codecondo.com/wp-content/uploads/2015/03/20-Ways-To-Learn-C-Programming-For-Free.png",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
@@ -246,9 +251,9 @@
     "instructor": {
       "name": "Hasan Chowdhury",
       "published_date": "2022-08-24",
-      "img": "../Image/Instructor/I3.jpg"
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1666716118~exp=1666716718~hmac=f03b22d2daa4f45ef691814a5c8b62cb8c1a4201854fd661036599e354453364"
     },
-    "thumbnail_url": "../Image/Catagories/c3.jpg",
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA7GmErlUknjLzrzFLLUm5ZN3XViWTmGGvUbZaIvEpbiiuOeFO6bhpd1fetRzWknpVygU&usqp=CAU",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   }
 ]

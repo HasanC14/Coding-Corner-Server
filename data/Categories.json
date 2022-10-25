@@ -2,31 +2,31 @@
     {
       "id": "01",
       "name": "Python",
-      "img": "../Image/Catagories/c1.jpg"
+      "img": "https://blog.hyperiondev.com/wp-content/uploads/2019/02/BLOG_Illustration_Assets-1.jpg"
     },
     {
       "id": "02",
       "name": "Java",
-      "img": "../Image/Catagories/c2.jpg"
+      "img": "https://blog.hyperiondev.com/wp-content/uploads/2018/04/17-APRIL-Java-Blog.jpg"
     },
     {
       "id": "03",
       "name": "Web Development",
-      "img": "../Image/Catagories/c3.jpg"
+      "img": "https://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Types-of-Web-Dev.jpg"
     },
     {
       "id": "04",
       "name": "SQL",
-      "img": "../Image/Catagories/c4.jpg"
+      "img": "https://blog.hyperiondev.com/wp-content/uploads/2018/12/Future-of-data-science.jpg"
     },
     {
       "id": "05",
       "name": "PHP",
-      "img": "../Image/Catagories/c5.jpg"
+      "img": "https://blog.hyperiondev.com/wp-content/uploads/2021/03/Hyperiondev_web_development.jpg"
     },
     {
       "id": "06",
       "name": "C",
-      "img": "../Image/Catagories/c6.jpg"
+      "img": "https://blog.hyperiondev.com/wp-content/uploads/2018/06/BlogHeaders.png"
     }
   ]
