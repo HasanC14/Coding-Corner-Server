@@ -180,9 +180,9 @@
     "instructor": {
       "name": "Hasib Chowdhury",
       "published_date": "2022-08-24",
-      "img": "https://www.biz4group.com/images/why-choose-php-programming-language-for-web-development.jpg"
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=1380&t=st=1666716118~exp=1666716718~hmac=f03b22d2daa4f45ef691814a5c8b62cb8c1a4201854fd661036599e354453364"
     },
-    "thumbnail_url": "../Image/Catagories/c3.jpg",
+    "thumbnail_url": "https://www.biz4group.com/images/why-choose-php-programming-language-for-web-development.jpg",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
@@ -194,9 +194,9 @@
     "instructor": {
       "name": "Kaniz Fatema",
       "published_date": "2022-08-24",
-      "img": "https://miro.medium.com/proxy/0*dYhf8eD1sNuG49Wf.png"
+      "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=1380&t=st=1666716015~exp=1666716615~hmac=06f848473ed00da351dd348850b9190590c1d70df992225342f95e09fa1ea332"
     },
-    "thumbnail_url": "../Image/Catagories/c4.jpg",
+    "thumbnail_url": "https://miro.medium.com/proxy/0*dYhf8eD1sNuG49Wf.png",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
@@ -210,7 +210,7 @@
       "published_date": "2022-08-24",
       "img": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?w=1380&t=st=1666716206~exp=1666716806~hmac=4644dec341307adac51e46c0098003c4efad44220c8c48884cb2cba98f4d87b8"
     },
-    "thumbnail_url": "../Image/Catagories/c5.jpg",
+    "thumbnail_url": "https://contentstatic.techgig.com/photo/msid-81637605,width-400,resizemode-4/Pros-and-cons-of-PHP-programming-language-that-every-developer-must-know.jpg",
     "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
 
